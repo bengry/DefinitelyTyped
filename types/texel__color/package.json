@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/texel__color",
+    "version": "1.1.9999",
+    "projects": [
+        "https://github.com/texel-org/color"
+    ],
+    "devDependencies": {
+        "@types/texel__color": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "Ben Grynhaus",
+            "githubUsername": "bengry"
+        }
+    ]
+}
